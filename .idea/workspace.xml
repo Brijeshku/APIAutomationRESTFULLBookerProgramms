@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cb64b65-b54f-453f-9a4a-ec3c6f7e0a43" name="Changes" comment="2 files are added">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/GetRequestforInfo.java" afterDir="false" />
+    <list default="true" id="9cb64b65-b54f-453f-9a4a-ec3c6f7e0a43" name="Changes" comment="Get Request tested">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/GET/BDDStyleGET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/GET/NonBDDStyleGET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/MultiTestCaseUSINGTestNg/TESTNG01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/POST/BDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/POST/NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/TC002.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/TC002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/GetRequestforInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/GetRequestforInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/TC001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/TC001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,21 +33,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Brijeshku"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Brijeshku&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Brijeshku/APIAutomationRESTFULLBookerProgramms.git",
-    "accountId": "978d62b2-91fd-46af-ac8d-179fab3ff7a7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Brijeshku/APIAutomationRESTFULLBookerProgramms.git&quot;,
+    &quot;accountId&quot;: &quot;978d62b2-91fd-46af-ac8d-179fab3ff7a7&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2uxJ3XMgwdrCHuLzD1yoxOATUan" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,32 +58,94 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BDDStyle.executor": "Run",
+    "Application.BDDStyleGET.executor": "Run",
     "Application.GetRequestforInfo.executor": "Run",
+    "Application.GetRequestforInfo.java.executor": "Run",
+    "Application.GetRequestforinfo.executor": "Run",
+    "Application.NonBDDStyle.executor": "Run",
+    "Application.NonBDDStyleGET.executor": "Run",
+    "Application.RetFullBooker.GetRequestforInfo.executor": "Run",
+    "Application.TC001.executor": "Run",
     "Application.TC002.executor": "Run",
+    "Application.com.RetFullBooker.GetRequestforInfo.executor": "Run",
+    "Application.com.RetFullBooker.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng.xml.executor": "Run",
+    "TestNG.TESTNG01.test_Get1.executor": "Run",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms",
+    "onboarding.tips.debug.path": "C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="GetRequestforInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng.xml">
+    <configuration name="GetRequestforinfo" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.RetFullBooker.GetRequestforInfo" />
       <module name="APIAutomationRESTFULLBookerProgramms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.RetFullBooker.*" />
-          <option name="ENABLED" value="true" />
+          <option name="ENABLED" value="false" />
         </pattern>
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="API AutomationRESTFULLBookerProgramms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="API AutomationRESTFULLBookerProgramms" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRESTFULLBookerProgramms" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TESTNG01.test_Get1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRESTFULLBookerProgramms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.RetFullBooker.AllCases.CRUDOPerationAPI.MultiTestCaseUSINGTestNg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.RetFullBooker.AllCases.CRUDOPerationAPI.MultiTestCaseUSINGTestNg" />
+      <option name="MAIN_CLASS_NAME" value="com.RetFullBooker.AllCases.CRUDOPerationAPI.MultiTestCaseUSINGTestNg.TESTNG01" />
+      <option name="METHOD_NAME" value="test_Get1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GetRequestforInfo" />
+        <item itemvalue="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng.xml" />
+        <item itemvalue="TestNG.TESTNG01.test_Get1" />
       </list>
     </recent_temporary>
   </component>
@@ -97,11 +166,31 @@
       <option name="project" value="LOCAL" />
       <updated>1743186058461</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Get Request tested">
+      <option name="closed" value="true" />
+      <created>1743187649674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743187649674</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2 files are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 files are added" />
+    <MESSAGE value="Get Request tested" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get Request tested" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

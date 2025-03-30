@@ -14,11 +14,6 @@ Rest Assured RESTFULLBooker Project
 
 
 
-
-(https://github.com/user-attachments/files/15879751/API.Testing.Class.Day.15.-.RA.pdf)
-
-
-
 [TestNG Mastery.pdf](https://github.com/user-attachments/files/15907774/TestNG.Mastery.pdf)
 http://192.168.0.102:61155/index.html#suites/e4b2d0fabba60e92e88180be9d9190aa/7711660751f0eb2/
 http://192.168.0.102:61155/index.html#

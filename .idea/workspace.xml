@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cb64b65-b54f-453f-9a4a-ec3c6f7e0a43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/Integration/TC001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/Integration/TC002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/PUT/NonBDDPut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng001.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_put.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +69,9 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng.xml.executor": "Run",
+    "TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng001.xml.executor": "Run",
+    "TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng_put.xml.executor": "Run",
+    "TestNG.TC001.executor": "Run",
     "TestNG.TESTNG01.test_Get1.executor": "Run",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "21",
@@ -74,7 +84,12 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng.xml">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\brije\IdeaProjects\API AutomationRESTFULLBookerProgramms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng001.xml">
     <configuration name="GetRequestforinfo" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -99,6 +114,26 @@
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="API AutomationRESTFULLBookerProgramms" />
       <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng001.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRESTFULLBookerProgramms" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng001.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng_put.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRESTFULLBookerProgramms" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_put.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,6 +168,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng001.xml" />
+        <item itemvalue="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng_put.xml" />
         <item itemvalue="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng.xml" />
         <item itemvalue="TestNG.TESTNG01.test_Get1" />
       </list>
@@ -171,7 +208,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743276430710</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="AllCrud Functionality Of API Has Testing With TesTNG Framework , Group ,Classes and order of test cases">
+      <option name="closed" value="true" />
+      <created>1743276495568</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743276495568</updated>
+    </task>
+    <task id="LOCAL-00005" summary="AllCrud Functionality Of API Has Testing With TesTNG Framework , Group ,Classes and order of test cases">
+      <option name="closed" value="true" />
+      <created>1743276585077</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743276585077</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

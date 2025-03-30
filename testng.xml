@@ -1,11 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms">
-        <classes>
-            <class name="com.RetFullBooker.AllCases.CRUDOPerationAPI.MultiTestCaseUSINGTestNg.TESTNG01">
-            <methods><include name="test_Get1"/></methods>
-        </class>
-        </classes>
-    </test>
-</suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms"><classes><class name="com.RetFullBooker.AllCases.CRUDOPerationAPI.MultiTestCaseUSINGTestNg.TESTNG01"><methods><include name="test_Get1"/></methods></class><class name="com.RetFullBooker.AllCases.CRUDOPerationAPI.PUT.NonBDDPut"><methods><include name="test_put_Positive_TC"/></methods></class></classes></test></suite>

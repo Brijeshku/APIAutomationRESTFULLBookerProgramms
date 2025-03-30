@@ -8,6 +8,10 @@
             </class>
             <class name="com.RetFullBooker.AllCases.CRUDOPerationAPI.Integration.TC002">
             </class>
+            <class name="com.RetFullBooker.AllCases.CRUDOPerationAPI.Integration.TC003">
+            </class>
+            <class name="com.RetFullBooker.AllCases.CRUDOPerationAPI.Integration.TC004">
+            </class>
         </classes>
     </test>
 </suite>

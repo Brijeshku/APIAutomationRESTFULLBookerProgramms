@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cb64b65-b54f-453f-9a4a-ec3c6f7e0a43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/Integration/TC004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/CRUDF/FullIntegration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/CRUDF/testngCRUD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/GroupTC/TCGroup01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngGroups.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/Integration/TC003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/Integration/TC003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng001.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng001.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +66,13 @@
     "Application.com.RetFullBooker.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/CRUDF/testngCRUD.xml.executor": "Run",
     "TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng.xml.executor": "Run",
     "TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng001.xml.executor": "Run",
+    "TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testngGroups.xml.executor": "Run",
     "TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng_put.xml.executor": "Run",
+    "TestNG.FullIntegration.testUpdateRequestPut.executor": "Run",
+    "TestNG.FullIntegration.test_update_reqtuest_put.executor": "Run",
     "TestNG.TC001.executor": "Run",
     "TestNG.TESTNG01.test_Get1.executor": "Run",
     "git-widget-placeholder": "master",
@@ -85,8 +90,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\brije\IdeaProjects\API AutomationRESTFULLBookerProgramms" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\brije\IdeaProjects\API AutomationRESTFULLBookerProgramms\src\test\java\com\RetFullBooker\AllCases\CRUDOPerationAPI\CRUDF" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng001.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/CRUDF/testngCRUD.xml">
     <configuration name="GetRequestforinfo" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -115,6 +123,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/CRUDF/testngCRUD.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRESTFULLBookerProgramms" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/CRUDF/testngCRUD.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng001.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRESTFULLBookerProgramms" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng001.xml" />
@@ -125,9 +143,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng_put.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testngGroups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRESTFULLBookerProgramms" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_put.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testngGroups.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -135,27 +153,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationRESTFULLBookerProgramms" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TESTNG01.test_Get1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FullIntegration.testUpdateRequestPut" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRESTFULLBookerProgramms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.RetFullBooker.AllCases.CRUDOPerationAPI.MultiTestCaseUSINGTestNg.*" />
+          <option name="PATTERN" value="com.RetFullBooker.AllCases.CRUDOPerationAPI.CRUDF.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.RetFullBooker.AllCases.CRUDOPerationAPI.MultiTestCaseUSINGTestNg" />
-      <option name="MAIN_CLASS_NAME" value="com.RetFullBooker.AllCases.CRUDOPerationAPI.MultiTestCaseUSINGTestNg.TESTNG01" />
-      <option name="METHOD_NAME" value="test_Get1" />
+      <option name="PACKAGE_NAME" value="com.RetFullBooker.AllCases.CRUDOPerationAPI.CRUDF" />
+      <option name="MAIN_CLASS_NAME" value="com.RetFullBooker.AllCases.CRUDOPerationAPI.CRUDF.FullIntegration" />
+      <option name="METHOD_NAME" value="testUpdateRequestPut" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FullIntegration.test_update_reqtuest_put" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRESTFULLBookerProgramms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.RetFullBooker.AllCases.CRUDOPerationAPI.CRUDF.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.RetFullBooker.AllCases.CRUDOPerationAPI.CRUDF" />
+      <option name="MAIN_CLASS_NAME" value="com.RetFullBooker.AllCases.CRUDOPerationAPI.CRUDF.FullIntegration" />
+      <option name="METHOD_NAME" value="test_update_reqtuest_put" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -165,10 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/src/test/java/com/RetFullBooker/AllCases/CRUDOPerationAPI/CRUDF/testngCRUD.xml" />
+        <item itemvalue="TestNG.FullIntegration.testUpdateRequestPut" />
+        <item itemvalue="TestNG.FullIntegration.test_update_reqtuest_put" />
+        <item itemvalue="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testngGroups.xml" />
         <item itemvalue="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng001.xml" />
-        <item itemvalue="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng_put.xml" />
-        <item itemvalue="TestNG.C:/Users/brije/IdeaProjects/API AutomationRESTFULLBookerProgramms/testng.xml" />
-        <item itemvalue="TestNG.TESTNG01.test_Get1" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743359290560</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Test cases with allure reports">
+      <option name="closed" value="true" />
+      <created>1743360812510</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743360812511</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
